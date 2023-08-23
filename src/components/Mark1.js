@@ -9,7 +9,7 @@ let Mark1= ()=>{
     return (
         <div className='mark1'>
             <div className='preview'>
-            <h1>Heading</h1><br></br><br></br>This is some <strong>bold</strong> text.  
+            <h1>Heading</h1><br></br><br></br><span>This is some <strong>bold</strong> text.</span>  
              <textarea onChange={changetext}>
             </textarea>   
             </div>
