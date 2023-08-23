@@ -1,9 +1,12 @@
 import React from 'react'
+import Mark1 from './Mark1'
+import Mark2 from './Mark2'
 
 let App= ()=>{
     return (
-        <div>
-            
+        <div className='app'>
+            <Mark1 />
+            <Mark2 />
         </div>
     )
 }
