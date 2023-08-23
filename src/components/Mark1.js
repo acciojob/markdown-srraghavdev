@@ -4,7 +4,7 @@ let Mark1= ()=>{
     return (
         <div className='mark1'>
             <div className='preview'>
-            <h1>Heading</h1>    
+            <h1><strong>Heading</strong></h1>    
              <textarea>
             </textarea>   
             </div>
