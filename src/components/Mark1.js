@@ -6,10 +6,9 @@ let Mark1= ()=>{
             <div className='preview'>
              <textarea></textarea>   
             </div>
-            <div className='result'>
+            {/* <div className='result'>
              <textarea></textarea>   
-            </div>
-            
+            </div> */}
         </div>
     )
 }
